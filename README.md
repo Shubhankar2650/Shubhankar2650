@@ -9,12 +9,12 @@
 
 - ⚡ *Solving programming problems*
 
-- 📫 How to reach me *yashpokharna2002@gmail.com*
+- 📫 How to reach me *kshubhankar2000@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yash pokharna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash pokharna" height="30" width="40" /></a>
-<a href="https://instagram.com/yash_pokharna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_pokharna" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yash pokharna" target="blank"><img align="center" src="https://www.linkedin.com/in/shubhankar-kumar-263347200/" alt="Shubhankar Kumar" height="30" width="40" /></a>
+<a href="https://instagram.com/yash_pokharna" target="blank"><img align="center" src="https://www.instagram.com/shubhankar2650/" alt="Shubhankar2650" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
